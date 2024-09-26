@@ -3,7 +3,7 @@
 Plugin Name: Custom Enquiry Plugin
 Description: A plugin to submit and view enquiries.
 Version: 1.0
-Author: Your Name
+Author: Lubdhak
 */
 
 // Hook to create custom table upon plugin activation
